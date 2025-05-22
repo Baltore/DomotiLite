@@ -66,25 +66,6 @@ Elle permet de contrôler des appareils simulés, recevoir des données de capte
 
 ---
 
-## 📂 Arborescence
-
-DomotiLite/
-├── client_gui/
-│ └── main.py
-│ └── controller.py
-├── sensor_simulator/
-│ └── simulator.py
-├── utils/
-│ ├── sockets.py
-│ ├── automation.py
-│ ├── devices.py
-├── db/
-│ └── domotilite.db
-│ └── schema.sql
-└── README.md
-
----
-
 ## 🚀 Lancement
 
 1. Clone le dépôt :
