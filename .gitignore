@@ -1,0 +1,18 @@
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Base de données locale
+db/domotilite.db
+
+# Environnement virtuel 
+venv/
+.env
+
+# Fichiers temporaires et logs éventuels
+*.log
+*.tmp
+
+# Fichiers systèmes 
+.DS_Store
+Thumbs.db
